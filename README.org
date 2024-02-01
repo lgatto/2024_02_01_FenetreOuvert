@@ -1,7 +1,6 @@
 * Programme
 
 |----------------+---------------------------------------------------------------+--------------------------------------------------------------------------------------------|
-|                |                                                               | <15>                                                                                       |
 | A partir de 9h | Arrivée des participantes et participants.                    | Accueil par la jobiste.                                                                    |
 | 9h20-9h50      | Accueil, tour de table et contextualisation.                  | Animation par Philippe Hiligsmann, Philippe Parmentier, Alice Naglieri, Lydwine Kuras      |
 | 10h-10h40      | Réflexion sur l’alignement pédagogique à l’université         | Emilie Malcourant                                                                          |
