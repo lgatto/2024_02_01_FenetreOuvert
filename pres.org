@@ -8,40 +8,42 @@
 
 * Introduction
 
+Cadre:
+
 - *Cursus de bio-informatique*: bac 2, 3 et master, école des sciences
   bio-médicales. De 12 (master) à 50 (bac 3) et 105 (bac 2)
   étudiant(e)s.
-- Equipe pédagogique: 1 prof + 3 assistant(e)s en bac.
+- *Équipe pédagogique*: 1 prof + 3 assistant(e)s en bac.
 - Accent sur la *pratique*: pas de slides, [[https://uclouvain-cbio.github.io/WSBIM1207/][e-book du cours]], utilisation
   de =R= et =RStudio=.
 
-Etudiant(e) de BAC2, 2018 - 2019
+Étudiant(e) de BAC2, 2018 - 2019
 
 > Le fait que le cours soit donné en intégrant directement la pratique
 > fonctionne bien (le prof écrit toutes les commandes qu'il
 > explique). Je pense que cela nous permet à la fois de visualiser, de
 > comprendre et d'appliquer directement les concepts expliqués.
 
-- *Evaluation à ressource ouvertes*: notes de cours en ligne, scripts,
+- *Évaluation à ressource ouvertes*: notes de cours en ligne, scripts,
   notes de cours des étudiants, questions/réponses du forum moodle,
   ... tout sauf communication avec des tiers.
 
 * Difficultés
 
 - *Perception d'un cours difficile*. En réalité, les attentes sont
-  différentes: pratique régulière, ne s'apprend pas en blocus.
+  différentes - pratique régulière, ne s'apprend pas en blocus.
 
-- Etudiant(e)s choisissent parfois la filière SBIM par réaction contre
+- Étudiant(e)s choisissent parfois la filière SBIM par réaction contre
   les cours plus quantitifs/formels; ne voient pas directement/tout de
   suite l'*intérêt de la matière dans leur formation* (malgré les
   explications et exemples)...
 
-Etudiant(e) de BAC2, 2018 - 2019
+Étudiant(e) de BAC2, 2018 - 2019
 
 > Je n’arrive personnellement pas à percevoir « l’interet » de cette
 > matière dans mon futur
 
-Etudiant(e)s de BAC3, 2021-2022
+Étudiant(e)s de BAC3, 2021-2022
 
 > C'est vraiment cette année que j'ai vu l'intérêt de ce cours. En
 > effet, ça touche directement à nos études (donnée d'expressions de
@@ -60,11 +62,11 @@ Etudiant(e)s de BAC3, 2021-2022
 * 1e tentative
 
 - Interrogations dispensatoires.
-- Effets négatigs: stress et stratégie du *mini-max*.
+- Effets négatifs: stress et stratégie du *mini-max*.
 
 * Ungrading
 
-Reference:
+Référence:
 - *UNgrading, why rating students undermines learning (and what to do
   instead)*, Susan D. Blum (editor), 2020. [[https://wvupressonline.com/ungrading][West Virginia University
   Press]], Morganstown.
@@ -80,26 +82,26 @@ Pourquoi?
 3. Only receiving feedback (and no grades) increases student learning.
 4. Self-evaluation and self-reflection improve student learning.
 
-** Implementation
+** Implémentions
 
 Ungrading my teaching: https://lgatto.github.io/ungrading/
 
 - Garder les interrogations, mais ne plus les corriger
   individuellement, ni les coter.
 - Prendre plus de temps pour la correction en classe.
-- Sondage systématique après la correction: (i) J'ai compris, mais il
-  me fait encore un peu de travail/temps; (ii) Je maîtrise la matière,
-  pas de problème. (iii) J'ai du mal, je vais demander de l'aide et/ou
-  poser des questions.
+- *Sondage systématique* après la correction: (i) J'ai compris, mais
+  il me fait encore un peu de travail/temps; (ii) Je maîtrise la
+  matière, pas de problème. (iii) J'ai du mal, je vais demander de
+  l'aide et/ou poser des questions.
 - Le temps gagné à ne plus corriger les interrogations est investi à
-  offrir des sénaces de questions individuelles.
-- Stimuler l'auto-évaluation, l'auto-critique de leur apprentissage.
+  offrir des *séances de questions individuelles*.
+- Stimuler l'*auto-évaluation*, l'*auto-critique* de leur apprentissage.
 
-** Evaluation
+** Évaluation
 
 First ungrading assessment: https://lgatto.github.io/ungrading-assessment/
 
 - Feedback informel (post-its, comité d'année) positif.
-- Evaluation/questionnaires (voir [[https://lgatto.github.io/images/eval_mean_ue_21_22.png][Evaluation du cours WSBIM1322 2021
+- Évaluation/questionnaires (voir [[https://lgatto.github.io/images/eval_mean_ue_21_22.png][Évaluation du cours WSBIM1322 2021
   (en haut) et 2022 (en bas)]])
 - Examens?
