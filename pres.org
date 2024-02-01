@@ -14,8 +14,8 @@ Cadre:
   50 (bac 3) et 105 (bac 2) étudiant(e)s.
 - Pas de pré-requis en analyse de données.
 - *Équipe pédagogique*: 1 prof + 3 assistant(e)s en bac.
-- Accent sur la *pratique*: pas de slides, [[https://uclouvain-cbio.github.io/WSBIM1207/][e-book du cours]], utilisation
-  de =R= et =RStudio=.
+- Accent sur la *pratique*: pas de slides, [[https://uclouvain-cbio.github.io/WSBIM1207/][e-book du cours]],
+  utilisation de =R= et =RStudio= -> *présence obligatoire*.
 
 Étudiant(e) de BAC2, 2018 - 2019
 
@@ -108,6 +108,7 @@ First ungrading assessment: https://lgatto.github.io/ungrading-assessment/
 - Feedback informel (post-its, comité d'année) positif.
 - Évaluation/questionnaires (voir [[https://lgatto.github.io/images/eval_mean_ue_21_22.png][Évaluation du cours WSBIM1322 2021
   (en haut) et 2022 (en bas)]])
-- Examens?
+- (Cotes/réussite aux examens?)
+
 
 * Merci

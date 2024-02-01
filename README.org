@@ -8,7 +8,7 @@
 | 10h40-10h55    | PAUSE                                                         |                                                                                            |
 | 11h-11h40      | Présentation de 4 dispositifs mis en place à l’université.    | Laurent Gatto, Dominique De Jaeger, Jean-François Rees, Dominique François, Philippe Denis |
 | 11h40-12h30    | Questions/réponses sur les témoignages + Réflexion collective | Animation par Philippe Parmentier (+ réponses aux questions par les témoins)               |
-| 12h30-13h30    | Conclusion, LUNCH et poursuites des échanges                  |                                                                                            |
+| 12h30-13h30    | Conclusion, lunch et poursuites des échanges             |                                                                                            |
 |----------------+---------------------------------------------------------------+--------------------------------------------------------------------------------------------|
 
 ** Réflexion sur l’alignement pédagogique à l’université
@@ -34,3 +34,13 @@
 ** Questions/réponses sur les témoignages + Réflexion collective
 - Comment préparer la future étudiante ou le futur étudiant aux modes
   d’évaluations de l’enseignement supérieur ?
+
+
+* Notes
+
+Les fonctions de l'évaluation:
+
+- Fonction diagnostique - évaluer pour orienter
+- Fonction formative - évaluer pour réguler et améliorer
+- Fonction ceritificative - évaluer pour valider
+- Fonction normative - évaluer pour sélectionner
