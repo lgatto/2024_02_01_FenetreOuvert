@@ -1,0 +1,93 @@
+#+TITLE: Ungrading en bio-informatique
+
+* Introduction
+
+- Cursus de bio-informatique: bac 2, 3 et master, école des sciences
+  bio-médicales.
+- Accent sur la pratique: pas de slides, livre avec les notes de cours
+  en ligne, utilisation de R et RStudio.
+
+Etudiant(e) de BAC2, 2018 - 2019
+
+> Le fait que le cours soit donné en intégrant directement la pratique
+> fonctionne bien (le prof écrit toutes les commandes qu'il
+> explique). Je pense que cela nous permet à la fois de visualiser, de
+> comprendre et d'appliquer directement les concepts expliqués.
+
+- Evaluation à ressource ouvertes: notes de cours en ligne, scripts,
+  notes de cours des étudiants, questions/réponses du forum moodle,
+  ... tout sauf communication avec des tiers.
+
+* Difficultés
+
+- Perception d'un cours difficile. En réalité, les attentes sont
+  différentes: pratique régulière, ne s'apprend pas en blocus.
+
+- Etudiant(e)s choisissent parfois la filière SBIM par réaction contre
+  les cours plus quantitifs/formels; ne voient pas directement/tout de
+  suite l'intérêt de la matière dans leur formation (malgré les
+  explications et exemples)...
+
+Etudiant(e) de BAC2, 2018 - 2019
+
+> Je n’arrive personnellement pas à percevoir « l’interet » de cette
+> matière dans mon futur
+
+Etudiant(e)s de BAC3, 2021-2022
+
+> C'est vraiment cette année que j'ai vu l'intérêt de ce cours. En
+> effet, ça touche directement à nos études (donnée d'expressions de
+> protéines, RNA, gènes etc) et je suis certaine que ça me permettra
+> dans le futur de pouvoir visualiser mes données d'une manière
+> beaucoup plus claire et précise. Je suis contente d'avoir ces
+> compétences maintenant.
+
+> Malheureusement la prise de conscience de l'importance de ce cours
+> s'est produit vers la fin du cours de 3e bac. Là je suis prêt à dire
+> que c'est même plus qu'important, que c'est le futur et que je me
+> sens bête car j'utilise seulement le code déjà créé par quelqu'un
+> donc respect à celui qui le crée. Cela suscite de plus en plus mon
+> attention.
+
+* 1e tentative
+
+- Interrogations dispensatoires.
+- Effets négatigs: stress et stratégie du mini-max.
+
+* Ungrading
+
+Reference
+
+** Définition
+
+> Ne pas utiliser des cotes dans l'enseignement.
+
+Pourquoi?
+
+1. Grades do not track learning (or anything else of importance).
+2. Grading reduces student learning.
+3. Only receiving feedback (and no grades) increases student learning.
+4. Self-evaluation and self-reflection improve student learning.
+
+** Implementation
+
+Ungrading my teaching: https://lgatto.github.io/ungrading/
+
+- Garder les interrogations, mais ne plus les corriger
+  individuellement, ni les coter.
+- Prendre plus de temps pour la correction en classe.
+- Sondage systématique après la correction: (i) J'ai compris, mais il
+  me fait encore un peu de travail/temps; (ii) Je maîtrise la matière,
+  pas de problème. (iii) J'ai du mal, je vais demander de l'aide et/ou
+  poser des questions.
+- Le temps gagné à ne plus corriger les interrogations est investi à
+  offrir des sénaces de questions individuelles.
+
+** Evaluation
+
+First ungrading assessment: https://lgatto.github.io/ungrading-assessment/
+
+- Feedback informel (post-its, comité d'année) positif.
+- Evaluation/questionnaires (voir [[https://lgatto.github.io/images/eval_mean_ue_21_22.png][Evaluation du cours WSBIM1322 2021
+  (en haut) et 2022 (en bas)]])
+- Examens?

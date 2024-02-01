@@ -34,12 +34,3 @@
 ** Questions/réponses sur les témoignages + Réflexion collective
 - Comment préparer la future étudiante ou le futur étudiant aux modes
   d’évaluations de l’enseignement supérieur ?
-
-
-* Présentation
-
-- Introduction: cursus de bio-informatique - accent sur la pratique,
-  évaluation à ressource ouvertes.
-- 1e tentative: interrogations dispensatoires. Effets négatigs: stress
-  et stratégie du mini-max.
-- Ungrading: definition, implementation, évaluation.
