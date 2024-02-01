@@ -17,7 +17,8 @@ Cadre:
 - Pas de pré-requis en analyse de données.
 - *Équipe pédagogique*: 1 prof + 3 assistant(e)s en bac.
 - Accent sur la *pratique*: pas de slides, [[https://uclouvain-cbio.github.io/WSBIM1207/][e-book du cours]],
-  utilisation de =R= et =RStudio= -> *présence obligatoire*.
+  utilisation de =R= et =RStudio=; pas de séparation théorie/TP ->
+  *présence obligatoire*.
 
 Étudiant(e) de BAC2, 2018 - 2019
 
