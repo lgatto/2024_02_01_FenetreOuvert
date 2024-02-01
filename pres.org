@@ -1,11 +1,17 @@
-#+TITLE: Ungrading en bio-informatique
+#+TITLE: UNgrading en bio-informatique
+#+AUTHOR: Prof. Laurent Gatto (FASB)
+
+- Introduction
+- Difficultés
+- 1e tentative
+- Ungrading
 
 * Introduction
 
-- Cursus de bio-informatique: bac 2, 3 et master, école des sciences
+- *Cursus de bio-informatique*: bac 2, 3 et master, école des sciences
   bio-médicales.
-- Accent sur la pratique: pas de slides, livre avec les notes de cours
-  en ligne, utilisation de R et RStudio.
+- Accent sur la *pratique*: pas de slides, [[https://uclouvain-cbio.github.io/WSBIM1207/][e-book du cours]], utilisation
+  de =R= et =RStudio=.
 
 Etudiant(e) de BAC2, 2018 - 2019
 
@@ -14,18 +20,18 @@ Etudiant(e) de BAC2, 2018 - 2019
 > explique). Je pense que cela nous permet à la fois de visualiser, de
 > comprendre et d'appliquer directement les concepts expliqués.
 
-- Evaluation à ressource ouvertes: notes de cours en ligne, scripts,
+- *Evaluation à ressource ouvertes*: notes de cours en ligne, scripts,
   notes de cours des étudiants, questions/réponses du forum moodle,
   ... tout sauf communication avec des tiers.
 
 * Difficultés
 
-- Perception d'un cours difficile. En réalité, les attentes sont
+- *Perception d'un cours difficile*. En réalité, les attentes sont
   différentes: pratique régulière, ne s'apprend pas en blocus.
 
 - Etudiant(e)s choisissent parfois la filière SBIM par réaction contre
   les cours plus quantitifs/formels; ne voient pas directement/tout de
-  suite l'intérêt de la matière dans leur formation (malgré les
+  suite l'*intérêt de la matière dans leur formation* (malgré les
   explications et exemples)...
 
 Etudiant(e) de BAC2, 2018 - 2019
@@ -52,11 +58,14 @@ Etudiant(e)s de BAC3, 2021-2022
 * 1e tentative
 
 - Interrogations dispensatoires.
-- Effets négatigs: stress et stratégie du mini-max.
+- Effets négatigs: stress et stratégie du *mini-max*.
 
 * Ungrading
 
-Reference
+Reference:
+- *UNgrading, why rating students undermines learning (and what to do
+  instead)*, Susan D. Blum (editor), 2020. [[https://wvupressonline.com/ungrading][West Virginia University
+  Press]], Morganstown.
 
 ** Définition
 
@@ -82,6 +91,7 @@ Ungrading my teaching: https://lgatto.github.io/ungrading/
   poser des questions.
 - Le temps gagné à ne plus corriger les interrogations est investi à
   offrir des sénaces de questions individuelles.
+- Stimuler l'auto-évaluation, l'auto-critique de leur apprentissage.
 
 ** Evaluation
 
