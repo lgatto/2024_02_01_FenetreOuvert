@@ -26,9 +26,10 @@ Cadre:
 > explique). Je pense que cela nous permet à la fois de visualiser, de
 > comprendre et d'appliquer directement les concepts expliqués.
 
-- *Évaluation à ressource ouvertes*: notes de cours en ligne, scripts,
+- *Évaluation à ressources ouvertes*: notes de cours en ligne, scripts,
   notes de cours des étudiants, questions/réponses du forum moodle,
-  ... tout sauf communication avec des tiers.
+  _questions des années précédentes_, ... tout sauf communication avec
+  des tiers.
 
 * Difficultés
 
@@ -63,7 +64,7 @@ Cadre:
 
 * 1e tentative
 
-- Interrogations dispensatoires (à ressource ouvertes).
+- Interrogations dispensatoires (à ressources ouvertes).
 - Effets négatifs: stress et stratégie du *mini-max*.
 
 -> *ÉCHEC* :-(
@@ -113,4 +114,4 @@ First ungrading assessment: https://lgatto.github.io/ungrading-assessment/
 - (Cotes/réussite aux examens?)
 
 
-* Merci
+* Merci!

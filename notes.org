@@ -1,12 +1,44 @@
 * Notes
 
 Les fonctions de l'évaluation:
-
 - Fonction diagnostique - évaluer pour orienter
 - Fonction formative - évaluer pour réguler et améliorer
 - Fonction ceritificative - évaluer pour valider
 - Fonction normative - évaluer pour sélectionner
 
 
-Ambiguïté de la réussite à 10/20 != connaître la moitié de la matière,
-c'est d'avoir les connaissances de bases pour réussir le cours.
+- Ambiguïté de la réussite à 10/20 != connaître la moitié de la
+  matière, c'est d'avoir les connaissances de bases pour réussir le
+  cours.
+
+- Concordance pédagigique
+#+begin_src
+acquis d'apprentissage <-> évaluation
+ ^                                ^
+ |      étudiant(e) au centre     |
+ |                                |
+ +-> dispositif d'apprentissage <-+
+#+end_src
+
+- [[https://www.cadre21.org/wp-content/uploads/2023/09/Taxonomie-de-Bloom-IA.pdf][La taxonomie de Bloom à l’ère de l’intelligence artificielle]]
+
+
+Compétences du 21e siècle:
+- Créativité, esprit critique, communication, coopération,
+  auto-évaluation.
+- Difficile à évaluer!
+
+Informer et former les étudiant(e)s
+- *Transparence et clarté* pour tous ceux/celles qui jouent un rôle
+  dans l'évaluation des modalités, critères d'évaluation et de la
+  fonction formative ou certificative.
+
+- *Etudiant(e) comme partenaire du dispositif* qui crée des questions,
+  qui imagine des situations authentiques d'évaluation, qui élabore
+  des critètes d'une production de qualité, ...
+
+- *Développer la littéracie de l'évaluation*: permettre à
+  l'étudiant(e) de faire le lien entre l'évaluation et
+  l'apprentissage; permettre d'identifier les critères, les objectifs
+  visés; développer la compétence en autoévaluation et en évaluation
+  par les pairs, notamment pour augmenter la capacité ...
