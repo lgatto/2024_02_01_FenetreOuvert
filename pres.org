@@ -1,18 +1,18 @@
 #+TITLE: UNgrading en bio-informatique
 #+AUTHOR: Prof. Laurent Gatto (FASB)
 
-- Introduction
-- Difficultés
-- 1e tentative
-- Ungrading
+- Introduction et difficultés
+- 1e tentative :-(
+- Ungrading :-)
 
 * Introduction
 
 Cadre:
 
-- *Cursus de bio-informatique*: bac 2, 3 et master, école des sciences
-  bio-médicales. De 12 (master) à 50 (bac 3) et 105 (bac 2)
-  étudiant(e)s.
+- *Cursus de bio-informatique*: FASB. Sciences des données appliquées
+  aux sciences bio-médicales. En bac 2, 3 et master. De 12 (master) à
+  50 (bac 3) et 105 (bac 2) étudiant(e)s.
+- Pas de pré-requis en analyse de données.
 - *Équipe pédagogique*: 1 prof + 3 assistant(e)s en bac.
 - Accent sur la *pratique*: pas de slides, [[https://uclouvain-cbio.github.io/WSBIM1207/][e-book du cours]], utilisation
   de =R= et =RStudio=.
@@ -61,8 +61,10 @@ Cadre:
 
 * 1e tentative
 
-- Interrogations dispensatoires.
+- Interrogations dispensatoires (à ressource ouvertes).
 - Effets négatifs: stress et stratégie du *mini-max*.
+
+-> *ÉCHEC* :-(
 
 * Ungrading
 
@@ -75,12 +77,13 @@ Référence:
 
 > Ne pas utiliser des cotes dans l'enseignement.
 
-Pourquoi?
+-> *Réussir* != *maîtriser*
 
 1. Grades do not track learning (or anything else of importance).
 2. Grading reduces student learning.
 3. Only receiving feedback (and no grades) increases student learning.
 4. Self-evaluation and self-reflection improve student learning.
+
 
 ** Implémentions
 
@@ -95,9 +98,10 @@ Ungrading my teaching: https://lgatto.github.io/ungrading/
   l'aide et/ou poser des questions.
 - Le temps gagné à ne plus corriger les interrogations est investi à
   offrir des *séances de questions individuelles*.
+- (Feedback interactif durant le cours avec des post-its.)
 - Stimuler l'*auto-évaluation*, l'*auto-critique* de leur apprentissage.
 
-** Évaluation
+** Évaluation (de l'ungrading)
 
 First ungrading assessment: https://lgatto.github.io/ungrading-assessment/
 
@@ -105,3 +109,5 @@ First ungrading assessment: https://lgatto.github.io/ungrading-assessment/
 - Évaluation/questionnaires (voir [[https://lgatto.github.io/images/eval_mean_ue_21_22.png][Évaluation du cours WSBIM1322 2021
   (en haut) et 2022 (en bas)]])
 - Examens?
+
+* Merci
