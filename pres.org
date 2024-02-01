@@ -9,7 +9,9 @@
 * Introduction
 
 - *Cursus de bio-informatique*: bac 2, 3 et master, école des sciences
-  bio-médicales.
+  bio-médicales. De 12 (master) à 50 (bac 3) et 105 (bac 2)
+  étudiant(e)s.
+- Equipe pédagogique: 1 prof + 3 assistant(e)s en bac.
 - Accent sur la *pratique*: pas de slides, [[https://uclouvain-cbio.github.io/WSBIM1207/][e-book du cours]], utilisation
   de =R= et =RStudio=.
 
