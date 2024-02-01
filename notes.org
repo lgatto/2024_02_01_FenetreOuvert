@@ -42,3 +42,19 @@ Informer et former les étudiant(e)s
   l'apprentissage; permettre d'identifier les critères, les objectifs
   visés; développer la compétence en autoévaluation et en évaluation
   par les pairs, notamment pour augmenter la capacité ...
+
+** Misc
+
+- Sondage: avez appris de nouvelles choses à la suite de l'évaluation?
+- Increase collaborative work.
+
+De nombreux types d'évaluations à l'université, qu'un(e) étudiant(e)
+recontrera au cours de son parcours:
+- examen ércit: QCM, dissertaion, livre ouvert, ...
+- examen oral: exposé oral, présentation d'un travail écrit, ...
+- production écrite: rapport, mémoire, ...
+- exercices pratiques (intra muros): ...
+- mise en situtaion (extra muros): stage, examen clinique, création
+  d'une oeuvre, entretien, expérimentation,
+- evaluation collaborative: séminaire, jeux de rôles, débats
+  argumentés, évaluation par les pairs, ...
